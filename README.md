@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="https://github.com/grioos/proffy-discovery/blob/master/.github/screenshots/logo.png?raw=true" />
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/.github/screenshots/banner.png" />
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="https://github.com/grioos/proffy-discovery/raw/master/.github/screenshots/banner.png" />
 </h1>
 
 <h4 align="center"> 
