@@ -24,14 +24,14 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   	<img alt="Página de cadastro de vídeo" src="https://github.com/grioos/proffy-discovery/raw/master/.github/screenshots/study.png" width="100%">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/study.png" width="100%">
+  	
 </p>
 
 ###  Página de cadastro dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   	<img alt="Página de cadastro de vídeo" src="https://github.com/grioos/proffy-discovery/raw/master/.github/screenshots/give-classes.png" width="100%">
-  	<img alt="Página de cadastro de vídeo" src="https://github.com/grioos/proffy-discovery/raw/master/.github/screenshots/give-classes.png" width="100%">
+  	
 </p>
 
 ---
