@@ -72,7 +72,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/71611542?s=460&u=02be2ba9004063163d61358ccdab70a91ce1d09d&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Arilsson Bernardi</b></sub> 🚀
+ <p><b>Arilsson Bernardi</b></p> 🚀
  <br />
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arilsson-bernardi-682104133/) 
