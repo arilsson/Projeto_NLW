@@ -24,7 +24,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 ###  Página de listagem dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/study-page.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="https://github.com/grioos/proffy-discovery/raw/master/.github/screenshots/study.png" width="100%">
   	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/study.png" width="100%">
 </p>
 
