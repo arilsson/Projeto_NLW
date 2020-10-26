@@ -74,8 +74,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
  <sub><b>Arilsson Bernardi</b></sub> 🚀
  <br />
-[![Linkedin Badge](https://img.shields.io/badge/-Arilsson-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arilsson-bernardi-682104133/)](https://www.linkedin.com/in/arilsson-bernardi-682104133/) 
+ 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arilsson-bernardi-682104133/) 
 ---
-## 📝 Licença
-Este projeto esta sobe a licença [MIT](./LICENSE.md).
 Feito por Arilsson Bernardi 👋🏻 [Entre em contato!](https://www.linkedin.com/in/arilsson-bernardi-682104133/)
