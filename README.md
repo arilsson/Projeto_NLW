@@ -42,7 +42,7 @@ Além disto ter um editor para trabalhar com o código como [VSCode](https://cod
 #### 🧭 Rodando a aplicação
 ```bash
 # Clone este repositório
-$ git clone https://github.com/grioos/proffy-discovery
+$ git clone https://github.com/arilsson/Projeto_NLW
 # Acesse a pasta do projeto no seu vscode
 $ cd proffy-discovery
 # Instale as dependências
