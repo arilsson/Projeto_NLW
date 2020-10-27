@@ -75,6 +75,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <p><b>Arilsson Bernardi</b> 🚀</p> 
  <br />
  
+ ## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+ 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arilsson-bernardi-682104133/) 
 ---
 Feito por Arilsson Bernardi 👋🏻 [Entre em contato!](https://www.linkedin.com/in/arilsson-bernardi-682104133/)
