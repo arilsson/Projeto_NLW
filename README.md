@@ -36,23 +36,6 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 </p>
 
 ---
-## 🚀 Como executar o projeto
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-#### 🧭 Rodando a aplicação
-```bash
-# Clone este repositório
-$ git clone https://github.com/arilsson/Projeto_NLW
-# Acesse a pasta do projeto no seu vscode
-$ cd proffy-discovery
-# Instale as dependências
-$ npm install
-# Execute a aplicação 
-$ npm start
-# O servidor inciará na porta:5500 - acesse http://localhost:5500 
-```
----
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
